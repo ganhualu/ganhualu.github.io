@@ -1,4 +1,3 @@
-# ganhualu.github.io
-My personal website
+# Welcome!
 
-Hello!
+Hi, this is my personal website.
